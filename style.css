@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    margin: 0 auto;
+    max-width: 280px;
+}
+
+input{
+    width: 100%;
+}
+
+form div{
+    display: block;
+    font-weight: bold;
+    margin-top: 16px;
+}
+
+form button{
+    padding:7px;
+    color: #fff;
+    background-color: #15ac3a;
+    width: 80px;
+    margin-top: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
